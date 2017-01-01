@@ -9,4 +9,4 @@ cas with flask demo
 3.数据库修改可参照model按照自己需要建表
 ================
 
-Email:sunqilin@cd.tuan800.com
+
